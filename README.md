@@ -11,7 +11,6 @@ We are very excited about your enthusiasm to join our Lab. Before becoming a ful
 - Reading and writing code  
 - Building toward your own research goals  
 
----
 
 ## 📚 Learning Path  
 
@@ -30,7 +29,7 @@ The core preparation includes **4–5 courses from Deeplearning.AI by Prof. Andr
 ## 🖥️ Computing Resources  
 
 You don’t need to worry about computational power.  
-KazNU now has a **DGX server—the best among institutions in Central Asia—** which will fully support your experiments and research.  
+Our University  now has a **DGX server—** which will fully support your experiments and research.  
 
 
 ## 🌊 Research Opportunities  
@@ -108,7 +107,44 @@ From here, follow the notebooks step by step to reinforce the concepts from the 
 
 ---
 
-### Step 4: Deep Learning Courses (Coming Soon)
+### Step 4: Deep Learning Specialization 
 
-The deep learning part will be introduced later. For now, focus on completing the ML courses and labs to build a solid foundation.
+After completing the Machine Learning courses, we continue with the **Deep Learning Specialization** by [Andrew Ng on Coursera](https://www.coursera.org/specializations/deep-learning).  
+This specialization has 5 courses, but for our core preparation you only need to complete the first 2:  
 
+1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)  
+2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)  
+
+These two courses explain the transition from **machine learning to deep learning**, introducing key concepts such as neural networks, hyperparameter tuning, regularization, and optimization. By finishing them, you will gain a **solid understanding of neural networks**, which will support your future research.  
+
+> ✅ **Mandatory courses end here.**  
+
+For those who want to go further, I personally recommend continuing with the **5th course of the specialization**:  
+
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)  
+
+This course introduces **attention mechanisms and transformer architectures**—concepts that were first developed in NLP, later expanded to computer vision, and are now the foundation of modern LLMs.  
+
+---
+
+### 🚀 Alternative Access  
+
+If you don’t have access to Coursera, you can still follow the Deep Learning Specialization in two steps:  
+
+1. **Watch the YouTube lectures**  
+   - [Deep Learning Specialization Playlist](https://www.youtube.com/watch?v=CS4cs9xVecg&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)  
+
+2. **Install the course materials from GitHub**  
+   - Clone the official repository:  
+     ```bash
+     git clone https://github.com/amanchadha/coursera-deep-learning-specialization.git
+     cd coursera-deep-learning-specialization
+     ```  
+   - Use these notebooks to complete the labs that correspond to each video lesson.  
+
+---
+
+### Step 5: Read Classical Papers  
+
+Once you finish the core courses, begin exploring **classical research papers** to strengthen your theoretical foundation.  
+👉 [Click here to go to the Papers subfolder](./classical_papers)  
