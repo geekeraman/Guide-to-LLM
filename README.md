@@ -32,7 +32,6 @@ The core preparation includes **4–5 courses from Deeplearning.AI by Prof. Andr
 You don’t need to worry about computational power.  
 KazNU now has a **DGX server—the best among institutions in Central Asia—** which will fully support your experiments and research.  
 
----
 
 ## 🌊 Research Opportunities  
 
@@ -45,16 +44,11 @@ We are living in an exciting wave of AI innovation, and there are many open area
 
 These methods are not only crucial for **language models**, but also for **vision-language models (VLLMs)** and **AI agents**.  
 
----
 
 ## 🚀 Your Research Career Starts Here  
 
 By completing this guide, you will be ready to contribute to cutting-edge projects in AI and LLM research.  
 We look forward to seeing your growth and contributions in the Lab!  
-
----
-
-Perfect 👍 I’ll rewrite your **Learning Procedure** into clean, professional English with a GitHub-friendly structure, clear steps, and proper links. Here’s how it could look in your README:
 
 ---
 
