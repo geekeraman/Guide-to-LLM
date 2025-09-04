@@ -147,4 +147,4 @@ If you don’t have access to Coursera, you can still follow the Deep Learning S
 ### Step 5: Read Classical Papers  
 
 Once you finish the core courses, begin exploring **classical research papers** to strengthen your theoretical foundation.  
-👉 [Click here to go to the Papers subfolder](./classical_papers)  
+👉 [Click here to go to the Papers subfolder](./Classical Papers)  
