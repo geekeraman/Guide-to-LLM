@@ -96,7 +96,7 @@ Before starting, make sure you have the required tools installed:
    ```bash
    git clone https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera.git
    cd Machine-Learning-Specialization-Coursera
-````
+   ```
 
 4. **Navigate to the course folder**
 
@@ -112,4 +112,3 @@ From here, follow the notebooks step by step to reinforce the concepts from the 
 
 The deep learning part will be introduced later. For now, focus on completing the ML courses and labs to build a solid foundation.
 
-```
