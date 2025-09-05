@@ -158,8 +158,8 @@
 | Қадам | Курс / Тапсырма                                                              | Ұзақтығы  | Ұсынылған мерзім        |
 |-------|-------------------------------------------------------------------------------|-----------|-------------------------|
 | 1     | Supervised Machine Learning: Regression and Classification (ML Specialization) | 3 апта    | 2-апта                  |
-| 2     | Advanced Learning Algorithms (ML Specialization)                              | 3 апта    | 4-апта                  |
-| 3     | Neural Networks and Deep Learning (DL Specialization)                         | 3 апта    | 6-апта                  |
+| 2     | Advanced Learning Algorithms (ML Specialization)                              | 6 апта    | 4-апта                  |
+| 3     | Neural Networks and Deep Learning (DL Specialization)                         | 9 апта    | 6-апта                  |
 | 4     | Improving Deep Neural Networks: Hyperparameter Tuning, Regularization & Optimization (DL Specialization) | 3 апта | 12-апта |
 
 **Ескерту:** Әр курс аяқталғаннан кейін **ауызша бағалау** өткізіледі.  
